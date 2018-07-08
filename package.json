@@ -1,0 +1,16 @@
+{
+  "name": "mfuses-repl",
+  "version": "1.0.0",
+  "description": "MFuSes - Moleculer Developer Console",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mfuses-moleculer": "git+ssh://git-user@git.chavdi.com:/srv/git/mf/mfuses-moleculer.git#semver:^v1.0.0",
+    "moleculer-repl": "^0.4.0",
+    "nats": "^1.0.0"
+  }
+}
