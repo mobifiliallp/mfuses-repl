@@ -1,13 +1,11 @@
 {
   "appName": "mfuses-repl",
   "logger": {
-    "enabled": false,
     "level": "info"
   },
   "usMoleculer": {
     "config": {
-      "namespace": "mol-default",
-      "transporter": "nats://localhost:4222"
+      "namespace": "mfuses-ns"
     }
   }
 }
