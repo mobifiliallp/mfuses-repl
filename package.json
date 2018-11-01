@@ -1,6 +1,6 @@
 {
   "name": "mfuses-repl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MFuSes - Moleculer Developer Console",
   "main": "main.js",
   "scripts": {
