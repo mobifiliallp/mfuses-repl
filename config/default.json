@@ -1,6 +1,7 @@
 {
   "appName": "mfuses-repl",
   "logger": {
+    "enabled": false,
     "level": "info"
   },
   "usMoleculer": {

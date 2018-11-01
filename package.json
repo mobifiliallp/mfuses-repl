@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mfuses-moleculer": "git+ssh://git-user@git.chavdi.com:/srv/git/mf/mfuses-moleculer.git#semver:^v1.0.0",
+    "mfuses-moleculer": "git+https://github.com/mobifiliallp/mfuses-moleculer.git#semver:^v1.0.0",
     "moleculer-repl": "^0.4.0",
     "nats": "^1.0.0"
   }
